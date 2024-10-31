@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Salihou_Mohamedi_Arthur_UA2/1.0.0": {
+        "runtime": {
+          "Salihou_Mohamedi_Arthur_UA2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Salihou_Mohamedi_Arthur_UA2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
