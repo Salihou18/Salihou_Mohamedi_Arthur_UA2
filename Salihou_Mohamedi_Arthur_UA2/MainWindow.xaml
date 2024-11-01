@@ -41,9 +41,15 @@
 
             </Button>
 
-            <!--<TextBox x:Name="txtMdp" Text="Mot de passe oublié ?" FontSize="15" FontFamily="Cambria Math" HorizontalAlignment="Center" Margin="0,5,0,0" IsEnabled="False" BorderBrush="{x:Null}" Background="{x:Null}" Foreground="Blue"/>-->
-            <!--<TextBox x:Name="txtCVC" Text="Créer votre compte" FontSize="15" FontFamily="Cambria Math" HorizontalAlignment="Center" Margin="0,15,0,0" IsEnabled="False" BorderBrush="{x:Null}" Background="{x:Null}" Foreground="Blue" TextChanged="txtCVC_TextChanged"/>-->
+            <TextBox x:Name="txtMdp" Text="Mot de passe oublié ?" FontSize="15" FontFamily="Cambria Math" HorizontalAlignment="Center" Margin="0,5,0,0" IsEnabled="False" BorderBrush="{x:Null}" Background="{x:Null}" Foreground="Blue"/>
+           <TextBox x:Name="txtCVC" Text="Créer votre compte" FontSize="15" FontFamily="Cambria Math" HorizontalAlignment="Center" Margin="0,15,0,0" IsEnabled="False" BorderBrush="{x:Null}" Background="{x:Null}" Foreground="Blue" TextChanged="txtCVC_TextChanged"/>
 
+        </StackPanel>
+
+        <StackPanel>
+            <Label Content=" Button ">
+                               
+            </Label>
         </StackPanel>
 
 
